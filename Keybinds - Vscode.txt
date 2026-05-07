@@ -1,0 +1,86 @@
+Keybinds - Vscode 
+
+Searching ->  
+Open commmand search : ctrl + shift + p 
+Open file search : ctrl + p 
+Open Symbol search #: ctrl + t 
+Open symbol search @ : ctrl + shift + o     
+
+navigating env ->
+Toggle between primary side bar and panel and secondary side bar: ctrl + 1 / 2 / 3 / 4 / 5    Defauts have been changed 
+Toggle close/open primary sidebar : ctrl + b 
+toggle close/open secondary sidebar : ctrl + alt + b
+togge close/open lower-panel : ctrl + j 
+Close active editor : ctrl + w
+Open last closed editor : ctrl + shift + t 
+Open Explorer : ctrl + shift + e 
+Open Search : ctrl + shift + f
+Open source control : ctrl + shift + g
+Open run & debug : ctrl + shift + d 
+Open extensions : ctrl + shift + x 
+Open search & replace : ctrl + shift + h 
+Quickswap between open tabs : ctrl + tab 
+
+
+Open settings : Ctrl + , 
+
+Development ->
+redo: ctrl + shift + z 
+Undo : ctrl + z
+Cut line : Ctrl + x (if nothing selected, it will copy entire line)y
+Copy line : ctrl + c (if nothing selected, it will copy entire line)
+Paste line : ctrl + v
+Add line below : ctrl + shift + ENTER 
+Add line and jump below : ctrl + ENTER (from wherever standing)
+Add indent to line while in a word-block : ????
+Select lines = shift + leftArrow / rightArrow 
+Select lines (word blocks) = shift + ctrl +  leftArrow / rightArrow
+Select lines (full line) = shift + HOME / END
+Select lines (blocks) = shift + alt + leftArrow / rightArrow 
+Select To end of Block = ?? must search
+Select current block = ctrl + d  (press more times to select more instances of block, applies to anything that is selected )
+
+While in select mode ->
+Comment line : ctrl + k -- ctrl + c   
+Comment only selection : ?????
+Undo comment selection : ctrl + k -- ctrl + u 
+Move to begining of line: ?? 
+Open up Quick suggestions: ctrl + . 
+
+Find in document : ctrl + f  
+Replace in document : ctrl + r 
+While in find/replace mode 
+    -> move to next / previos instance : Enter / Shift + Enter
+    -> Move line up / down : alt -> leftArrow / RightArrow
+
+Keybinds - Linux
+Open a new terminal session : ctrl + alt + t 
+Swap between workspaces : ctrl + alt + leftArrow/ rightArrow 
+
+While in terminal -> 
+Close terminal session : ctrl + d
+Copy from terminal : ctrl + shift + c 
+Paste into terminal : ctrl + shift + v  
+Clear terminal : ctrl + l 
+Go to begining of line : ctrl + a  ( maybe change to match vscode ?????)
+Go to end of line : ctrl + e (maybe change to match vs code ?????)
+Go back one character : ctrl + b
+Go back one block : alt + b 
+Go forward one character : ctrl + f
+Go forward one block : alt + f 
+Toggle beginning / cursor location : ctrl + xx (press twice)
+Delete char under cursor : ctrl + d 
+Delete word after cursor : alt + d 
+swap position of two blocks : alt + t ( takes block left of cursor and switches with cursor's block -> will contunie to switch that block forward with upcoming words if command reapeated )
+swap position of two chars : ctrl + t ( takes character left of cursor and switches with cursor's character -> will contunie to switch that character forward with upcoming words if command reapeated )
+Capitilize char on & after cursor (block max ) : alt + u 
+de-Capitilize char on & after cursor (block max) : alt + l 
+Capitilize char on Cursor : alt + c 
+Stop running process: ctrl + c
+Search command history : ctrl + r 
+Exit search command history : ctrl + g
+Execute command : ctrl + o ( feels useless, why not just ENTER)
+
+
+
+Delete everything before cursor : ctrl + u 
