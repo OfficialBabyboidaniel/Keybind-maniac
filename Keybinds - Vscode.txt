@@ -56,6 +56,15 @@ While in find/replace mode
 Keybinds - Linux
 Open a new terminal session : ctrl + alt + t 
 Swap between workspaces : ctrl + alt + leftArrow/ rightArrow 
+Open Firefox : ctrl + alt + f 
+Open Terminal : ctrl + alt + t
+Tile left : Win + left
+Tile Right : Win + Right
+Tile top : Win + Up
+Tile Bottom : Win + down
+Show desktop : Win + D
+
+
 
 While in terminal -> 
 Close terminal session : ctrl + d
