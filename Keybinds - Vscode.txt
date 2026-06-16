@@ -63,6 +63,8 @@ Tile Right : Win + Right
 Tile top : Win + Up
 Tile Bottom : Win + down
 Show desktop : Win + D
+Switch to workspace on the right : ctrl + alt + Right 
+Switch to workspace on the left : ctrl + alt + Left
 
 
 
